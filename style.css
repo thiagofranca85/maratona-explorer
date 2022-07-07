@@ -36,6 +36,13 @@ body.dark-pink {
     --primary-color-dark: #A61E4D;
 }
 
+body.dark-green {
+    --bg-color: #182c25;
+    --text-color: #ffffff;
+    --primary-color: #2c4c3b;
+    --primary-color-dark: #306844;
+}
+
 
 body {
     background: var(--bg-color);
